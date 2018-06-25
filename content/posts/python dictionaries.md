@@ -2,6 +2,7 @@
 title: "Python Dictionaries"
 date: 2018-01-03T18:33:53Z
 draft: false
+tags: [ "python", "development"]
 ---
 
 ## Introduction.
