@@ -7,7 +7,7 @@ googleAnalytics = ""
 
 [params]
     author = "Kevin Cornally"
-    description = "I need to get me some python !"
+    description = "I need to get me some python (and some golang they tell me !!) !"
     githubUsername = "#"
     accent = "#003399"
     showBorder = true
