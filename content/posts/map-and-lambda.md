@@ -1,11 +1,12 @@
 ---
-title: "Map and Lambda"
+title: "Python Map and Lambda"
 date: 2018-06-28T21:42:45+01:00
 draft: false
 tags: [ "python", "development"]
 ---
 
 ## Introduction to Lambdas
+
 
 One of the guys in my team in work loves Lambda functions. I often have to do a double take on the code logic relating to these 
 little beauties so here is a quick post on lambdas and maps.
